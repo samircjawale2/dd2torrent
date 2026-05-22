@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  name: "gta"
+  comment: "gta"
+  url: "https://fafda.to/d/798s0sck9y6i?v=i4lI1nwnIJpACL52AuANUyzbd9UheuQg8T1OwwNJflgWVe0AToMXaK-8QrxCNwf61s36bFzfSgiCYf4G6H0pj_91gMu7N_0dWhrJydWZOwc0u1x_oWgHildYw8LeMlTti66hb1sdfLqZNpKGlwa0IG3hf3IacoLNGTnlWKn8Wz0n2nuyMsgo4uxgSvg0ZKyZ1JYRK4tCCdjQAwGyrmn6Ttfp8U80Ai-EW2m24XA"
+  file_name: "gtag0ZKyZ1JYRK4tCCdjQAwGyrmn6Ttfp8U80Ai-EW2m24XA"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
